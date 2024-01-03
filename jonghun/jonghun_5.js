@@ -1,6 +1,7 @@
 //https://school.programmers.co.kr/learn/courses/30/lessons/118667?language=javascript
 
 // 연결리스트로 구성된 큐 그냥 배열로 만든 큐는 시간초과가 나서 도입
+// 출처 : https://aiday.tistory.com/125
 class Queue {
   constructor() {
     this.storage = new Object();
